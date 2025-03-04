@@ -1,2 +1,9 @@
 # E3_Fusionform
-Evaluate best football formations based on opponent formations.
+
+Evaluate best 11-aside football formations based on opponent formations.
+
+## Downloading and Evaluating
+
+To download this repo, run ` git clone https://github.com/deepfield-ml/E3_Fusionform `
+
+Run  ` Python3 app_py.py ` to evaluate the model with basic GUI.
