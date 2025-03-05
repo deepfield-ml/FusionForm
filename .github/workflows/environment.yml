@@ -1,0 +1,15 @@
+name: df_fusionform
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - scikit-learn
+  - tqdm
+  - pytorch
+  - onnx
+  - onnxruntime
+  - numpy
+  - gradio
+  - flake8
+  - pytest
