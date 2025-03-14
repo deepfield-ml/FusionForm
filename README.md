@@ -1,6 +1,6 @@
 # E3_Fusionform
 
-Evaluate best 11-aside football formations based on opponent formations.
+Evaluate best 11-aside football formations based on opponent formations. Convertion between 11 aside and 7 aside formations
 
 ## Downloading and Evaluating
 
