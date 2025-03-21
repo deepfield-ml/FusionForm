@@ -236,7 +236,7 @@ func main() {
 		░▌         ▐░░░░░░░░░░░▐░▌       ▐░▐░▌       ▐░▌
 		▀           ▀▀▀▀▀▀▀▀▀▀▀ ▀         ▀ ▀         ▀
 
-					FusionForm(8to11) V0.0.1B By Gordon.H
+					FusionForm(8to11) V0.0.1C By Gordon.H
 					© Deepfield 2025
 	`)
 	fmt.Println("Enter 8-a-side formation in numbers (e.g., 232):")
